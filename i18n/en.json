@@ -1,0 +1,397 @@
+{
+  "frequentlyAskedQuestions": {
+    "heading": "Frequently asked questions",
+    "search": "Search",
+    "loremIpsum": "Lorem ipsum dolor sit amet",
+    "faqQuestion": "What is FAQ Questions?",
+    "faqAns": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
+  },
+  "termsAndConditionAndPolicy": {
+    "termsAndCondition": {
+      "heading": "Terms and Conditions",
+      "firstParagraph": "The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "secondParagraph": "Section 1.10.32 of 'de Finibus Bonorum et Malorum', written by Cicero in 45 BC Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?"
+    },
+    "privacyPolicy": {
+      "heading": "Privacy Policy"
+    },
+    "cookiePolicy": {
+      "heading": "Cookie Policy"
+    }
+  },
+  "global": {
+    "playwheel": "Playwheel",
+    "label": {
+      "label1": "Package",
+      "label2": "Email",
+      "label3": "Password",
+      "label4": "Confirm Password",
+      "label5": "Phone Number"
+    },
+    "button": {
+      "login": "Login",
+      "blue": "Blue",
+      "large": "Large",
+      "back": "Checkout",
+      "english": "English",
+      "arabic": "ةيب رعلا",
+      "start": "Start",
+      "primary": "ModalButton",
+      "continue": "Continue",
+      "view_profile": "View Profile",
+      "ok": "Ok",
+      "no": "No",
+      "yes": "Yes",
+      "mayBe": "Maybe",
+      "apply": "Apply",
+      "cancel": "Cancel",
+      "update": "Update",
+      "confirm": "Confirm",
+      "signup": "Sign Up",
+      "visitorView": "Visitor View",
+      "next": "Next",
+      "upload": "Upload",
+      "select": "Select",
+      "pay": "Pay Now",
+      "submit": "submit",
+      "save": "Save",
+      "see details": "See details",
+      "buy now": "Buy now",
+      "available seat": "Available seat:",
+      "openPlay": "Open play",
+      "workShops": "Workshops",
+      "booking": "Booking",
+      "verify": "Verify",
+      "deleteAccount": "Delete Account",
+      "logOut": "Log Out",
+      "changeAddress": "Change address",
+      "follow": "Follow",
+      "unfollow": "Unfollow",
+      "Join":"Join now",
+      "Joined": "Leave"
+    }
+  },
+  "profile": {
+    "tabOne": "Account",
+    "tabTwo": "Addresses",
+    "tabThree": "Settings",
+    "heading": "My Profile",
+    "buttonChange": "Change",
+    "buttonRemove": "Remove",
+    "name": "Name",
+    "email": "Email",
+    "phoneNumber": "Phone Number",
+    "password": "Password",
+    "change": "Change",
+    "addressButton": "Add new address",
+    "editAddress": "Edit address",
+    "delete": "Delete",
+    "addressDetails": "Address details",
+    "deleteAddress": "Delete address",
+    "addedAvatar":"Image has been updated",
+    "removeAvatar":"Image has been removed",
+    "deletePara": "Are you sure you want to delete this address?",
+    "modal": {
+      "changePasswordHeading": "Change password",
+      "currentPassword": "Current password",
+      "newPassword": "New password",
+      "confirmPassword": "Confirm password",
+      "passwordLength": "must be at least 8 characters",
+      "passwordSuccessful": "Password has successfully been changed",
+      "changeEmail": "Change Email",
+      "emailPara": "Please enter the new email address you would like to change.",
+      "email": "Email",
+      "verifyOtp": "Verify Email Otp",
+      "verifyEmail": "Verify Email",
+      "emailOtpPara": "We have sent the Otp in your email. Please enter the Otp for the verification.",      "resendCode": "Didn’t get the code?",
+      "resendText": "Resend Code",
+      "emailChanged": "Email address has successfully been changed.",
+      "phoneChanged": "Phone number has successfully been changed.",
+      "paraPhoneNumber": "Please enter the new phone number you would like to change.",
+      "changePhoneNumber": "Change Phone Number",
+      "countryCode": "Select Country Code",
+      "verifyNumber": "Verify Phone Number",
+      "verifyNumberOtpPara": "We have sent the Otp in your email. Please enter the Otp for the verification.",
+      "phoneNumberLengthError": "Please enter a number",
+      "afterPhoneNumberVerifypara": "Phone number has successfully been changed."
+    },
+    "logOutModal": {
+      "heading": "Log out of your account",
+      "para": "Are you sure you want to log out of your account now?"
+    },
+    "deleteModal": {
+      "heading": "Delete account",
+      "para": "Are you sure you want to delete your account now?"
+    },
+    "addressModal": {
+      "label1": "Address One",
+      "label2": "Address Two",
+      "country": "Country",
+      "state": "State",
+      "district": "District",
+      "code": "Postal code",
+      "addressChangeSucccessful": "New address has been added",
+      "saveChanges": "Save Changes",
+      "cancelEdit": "Cancel edit"
+    },
+    "setting": {
+      "heading": "Setting",
+      "changeLanguage": "Change Language",
+      "push": "Push Notification",
+      "emailNotification": "Email Notification",
+      "smsNotification": "SMS Notification",
+      "on": "ON",
+      "off": "OFF"
+    },
+    "error": {
+      "mailError": "Email is not valid.",
+      "passwordMatchError": "New password and Confirm new password not match ",
+      "countryError": "Please select an Country",
+      "stateError": "Please select an State",
+      "districtError": "Please select an District",
+      "postalCodeError": "Please enter Postal Code",
+      "addressOneError": "Please enter Address One",
+      "addressTwoError": "Please enter Address Two",
+      "errorMessageForOTP":"Please Enter the OTP",
+      "invalidOtp": "Invalid OTP",
+      "error": "Error"
+    }
+  },
+  "myCart": {
+    "heading": "My Cart",
+    "pebeaSneakers": "Pebea Sneakers"
+  },
+  "checkOutNow": {
+    "backButtonText": "Checkout",
+    "addresstext": "Delivery address",
+    "totalPrice": "Total price:",
+    "addressModal": {
+      "name": "Recipient name",
+      "phoneNumber": "Recipient phone number",
+      "addressName": "Address name",
+      "province": "Province",
+      "district": "District",
+      "code": "Postal code",
+      "select": "Select"
+    }
+  },
+  "signUpForm": {
+    "login": "Log in",
+    "forgetPassword": "Forgot password?",
+    "newUser": "Don't have an account? ",
+    "signUp": "Sign up",
+    "loginButtonText": "Login",
+    "subText": "We'll send a E-Mail to reset your password",
+    "backToLogin": "Back to Login",
+    "continue": "Continue",
+    "passwordLength": "must be at least 8 characters",
+    "errorMessage": "This email can’t be found, make sure email is incorrect",
+    "unexpectedError": "An unexpected error occurred. Please try again later."
+  },
+  "authentication": {
+    "invalidEmail": "Invalid email",
+    "invalidPassword": "Invalid password",
+    "passwordNotMatch": "Password does not match",
+    "emailNotVerified": "Email is not verified, please verify email first",
+    "invalidNumber": "Invalid Number",
+    "enterMobileNumber": "Enter Mobile Number",
+    "required": "Required Field",
+    "invalidPhoneNumber": "Invalid Phone number",
+    "strings": {
+      "incChar": "Includes at least 6 characters",
+      "incNum": "Includes number",
+      "incLower": "Includes lowercase letter",
+      "incUpper": "Includes uppercase letter",
+      "incSym": "Includes special symbol"
+    },
+    "formText": {
+      "signUp": "Sign up now",
+      "writeEmail": "Write your email",
+      "writePassword": "Write your password",
+      "name": "Name",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "continue": "Continue",
+      "forgetPassword": "Forgot Password",
+      "newUser": "Don't have an account?",
+      "login": "Login",
+      "agreeText": "I agree to the ",
+      "termsAndConditions": "Terms and Conditions",
+      "invalidNumber": "Invalid number",
+      "namePlaceholder": "Name",
+      "emailPlaceholder": "Email",
+      "errorMessage": "This email or password is incorrect, please try again",
+      "oldUser": "Already have account?",
+      "successfully": "Successfully",
+      "forgotPasswordText": "Please enter your registered email to receive the reset link.",
+      "forgotPasswordLink": "Please check your registered email or phone number"
+    }
+  },
+  "contactUs": {
+    "imageHeading": "Get in touch",
+    "imageParagraph": "We’d love to hear from you",
+    "contactTitle": "Contact details",
+    "contactDetails": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.",
+    "location": "Location map",
+    "buttonAboveHeadingOne": "Browse our FAQs",
+    "buttonAboveHeadingTwo": "Get in touch with us",
+    "buttonText1": "Browse FAQs",
+    "buttonText2": "Send feedbacks"
+  },
+  "becomeMember": {
+    "playWheelMember": "Become Playwheel member",
+    "memberParagraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the was popularised in the 1960s with the release of Letraset sheets containing."
+  },
+  "bookingForEvent": {
+    "aboutMultipurposeText": "About multipurpose hall & services",
+    "galleryText": "Gallery",
+    "bookingForEventText": "Booking for events",
+    "packagePriceText": "Package price",
+    "addToCartText": "Add to cart",
+    "checkOutNowText": "Check out now",
+    "totalPriceText": "Total price",
+    "addOnPriceText": "Add-ons price",
+    "addOnsText": "Add-ons",
+    "addOnNameText": "Add-on name",
+    "chooseDateText": "Choose date and time",
+    "checkoutText": "Checkout",
+    "addCouponText": "Add coupon code",
+    "paymentProceedButtonText": "Proceed to payment",
+    "bookingForEventHeading": "Book For Events"
+  },
+  "kidZone": {
+    "heading": "Open Play",
+    "availableAndTiming": "Availability & Timings",
+    "timing": "Timings:",
+    "availableSlots": "Available slots",
+    "services": "Services",
+    "selectDate": "Select date"
+  },
+  "addKidDetails": {
+    "kidName": "Kid’s name",
+    "kidNamePlaceholder": "Write name",
+    "kidDateOfBirthText": "Kid's Date of Birth",
+    "kidFavouriteColor": "Favorite color",
+    "kidFavouriteColorPlaceholder": "Write color",
+    "nextButton": "Next ",
+    "previousButtonText": "Previous",
+    "saveButtonText": "Save",
+    "editKidDetails": "Edit kid’s detail"
+  },
+  "workshop": {
+    "workshopHeadingOne": "Ongoing Workshop",
+    "workshopHeadingTwo": "Upcoming workshops",
+    "aboutWorkshop": "About workshop",
+    "aboutOrganizer": "About organizer",
+    "workshopCardHeading": "Name of the workshop",
+    "buttonText": "Buy now",
+    "progressbarText": "Seat available",
+    "bookingWorkshop": "Booking for workshop",
+    "choosekidDetails": "Choose kids details",
+    "addKidDetails": "Add new kid’s details",
+    "workshopName": "Workshop name here",
+    "buttonTextOne": "Add to cart",
+    "buttonTextTwo": "Check out now",
+    "workshopImageHeading": "Workshops",
+    "calenderButtonText": "Select from calendar",
+    "workshopParagraphFirst": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.",
+    "workshopParagraphSecond": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.",
+    "workshopParagraphThird": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.",
+    "selectDate": "Select from calendar"
+  },
+  "productPage": {
+    "visitStore": "Visit store",
+    "totalProduct": "Total product",
+    "productSold": "Product sold",
+    "responseRate": "Response rate",
+    "joinedSince": "Joined since",
+    "aboutProduct": "About product",
+    "customerRating": "Customer rating",
+    "customerQuestions": "Customer questions",
+    "addToCart": "Add to cart",
+    "buyNow": "Buy now",
+    "size": "Size",
+    "colors": "Colors",
+    "question": "Question:",
+    "condition": "Condition",
+    "currentQuantity": "Current quantity",
+    "material": "Material",
+    "delivery": "Delivery"
+  },
+  "header": {
+    "signUp": "Create account",
+    "login": "Login to your account",
+    "allCategories": "All Categories",
+    "yourAccount": "Your account",
+    "name": "Andrew white"
+  },
+  "homePage": {
+    "seeMore": "See more",
+    "seeLess": "See less",
+    "productSectionsName": "Product sections name",
+    "popularProduct": "Popular Product",
+    "categoryName": "Category name",
+    "carousel": {
+      "heading": "Lorem ipsum dolor sit amet adipiscing elit sed do",
+      "subHeading": "Excepteur sint occaecat cupidatat non proident.",
+      "buttonText": "Learn more"
+    }
+  },
+  "footer": {
+    "copyrightName": "© Copyright company name, 2021",
+    "wishlists": "Wishlists",
+    "chats": "Chats",
+    "myOrders": "My orders",
+    "myProfile": "My Profile",
+    "aboutUs": "About us",
+    "termsConditions": "Terms & conditions",
+    "privacyPolicy": "Privacy policy",
+    "helpCenter": "Help center"
+  },
+  "Categories": {
+    "apparels": "Apparels",
+    "tops": "Tops",
+    "bottoms": "Bottoms",
+    "tSTanks": "T-shirt & tanks",
+    "shirts": "Shirts & polos",
+    "hoodies": "Hoodies & sweatshirts",
+    "cardigans": "Cardigans & sweaters",
+    "jacket": "Jacket & blazzers",
+    "jogger": "Jogger & sweatpants",
+    "shorts": "Shorts",
+    "tights": "Tights",
+    "chinos": "Chinos",
+    "jeans": "Jeans",
+    "trackpants": "Trackpants",
+    "sneakers": "Sneakers"
+  },
+  "apparelCategories": {
+    "heading": "Apparel categories",
+    "noData": "No Data Found",
+    "SearchNofound": "Search can’t be found",
+    "tryAnother": "Your keyword can’t be found, please try another keyword "
+  },
+  "favoriteItems": {
+    "heading": "Favorite items",
+    "searchFavoriteItems": "Search favorite items...",
+    "RemoveModal": {
+      "heading": "Remove favorite item",
+      "subHeading": "Are you sure you want to remove this favorite items from your list?",
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "searchPage": {
+    "yourSearched": "Your searched for",
+    "mostRecent": "Most recent"
+  },
+  "experiences": {
+    "addNewExp": "Submit experience",
+    "heading": "Add your experiences to help others",
+    "title": "Add your experience's title",
+    "description": "Add description",
+    "userImg": "Upload your avatar",
+    "userName": "userName",
+    "userHandle": "@userHandle"
+  }
+}

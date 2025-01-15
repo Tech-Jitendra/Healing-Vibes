@@ -1,0 +1,425 @@
+{
+  "frequentlyAskedQuestions" : {
+    "heading": "أسئلة مكررة",
+    "search": "يبحث",
+    "loremIpsum": "أبجد هوز دولور الجلوس امات",
+    "faqQuestion": "ما هي الأسئلة الشائعة؟",
+    "faqAns": "الوقوع الصدغي من العمل ودولور ماجنا أليكوا.المساعدة في الحد الأدنى من التمرين ، تمرين الخمار."
+   },
+  "termsAndConditionAndPolicy" : {
+    "termsAndCondition":{
+      "heading": "سياسة الخصوصية",
+      "firstParagraph" :"لكن لا بد أن أوضح لك أن كل هذه الأفكار المغلوطة حول استنكار  النشوة وتمجيد الألم نشأت بالفعل، وسأعرض لك التفاصيل لتكتشف حقيقة وأساس ت  لك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا بد أن نستشعرها بصورة أكثر عقلانية ومنطقية فيعرضهم هذا لمواجهة الظروف الأليمة، وأكرر بأنه لا يوجد من يرغب في الحب ونيل المنال ويتلذذ بالآلام، الألم هو الألم ولكن نتيجة لظروف ما قد تكمن السعاده فيما نتحمله من كد وأسي.",
+      "secondParagraph" :"لكن لا بد أن أوضح لك أن كل هذه الأفكار المغلوطة حول استنكار  النشوة وتمجيد الألم نشأت بالفعل، وسأعرض لك التفاصيل لتكتشف حقيقة وأساس ت  لك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا بد أن نستشعرها بصورة أكثر عقلانية ومنطقية فيعرضهم هذا لمواجهة الظروف الأليمة، وأكرر بأنه لا يوجد من يرغب في الحب ونيل المنال ويتلذذ بالآلام، الألم هو الألم ولكن نتيجة لظروف ما قد تكمن السعاده فيما نتحمله من كد وأسي."
+    },
+    "privacyPolicy":{
+      "heading": "سياسة الخصوصية"
+    },
+    "cookiePolicy":{
+      "heading": "سياسة ملفات الارتباط"
+    }
+  },
+  "global": {
+    "playwheel":"دولاب اللعب",
+    "label": {
+      "label1": "اسم",
+      "label2": "البريد الإلكتروني",
+      "label3": "كلمة المرور",
+      "label4": "تأكيد كلمة المرور"
+    },
+    "button": {
+      "english": "English",
+      "back" : "الدفع",
+      "blue":"أزرق",
+      "large":"كبير",
+      "arabic": "ةيب رعلا",
+      "start": "بداية",
+      "primary": "ModalButton",
+      "no": "رقم",
+      "ok": "موافق",
+      "mayBe": "ربما",
+      "yes": "نعم",
+      "apply": "يتقدم",
+      "pay": "ادفع الآن",
+      "continue": "تؤكد",
+      "cancel": "إلغاء",
+      "update": "تحديث",
+      "confirm": "يتأكد",
+      "signup": "اشتراك",
+      "login": "تسجيل الدخول",
+      "next": "التالي",
+      "visitorView": "عرض الزائر",
+      "upload": "تحميل",
+      "select": "يختار",
+      "submit": "إرسال",
+      "save": "يحفظ",
+      "see details": "انظر التفاصيل",
+      "buy now": "اشتري الآن",
+      "available seat": "مقعد متاح:",
+      "verify":"يؤكد",
+      "deleteAccount":"حذف الحساب",
+      "logOut":"تسجيل خروج",
+      "changeAddress":"تغيير العنوان"
+    }
+  },
+  "profile":{
+    "tabOne":"حساب",
+    "tabTwo":"عناوين",
+    "tabThree":"إعدادات",
+    "heading":"ملفي",
+    "buttonChange":"يتغير",
+    "buttonRemove":"يزيل",
+    "name":"اسم",
+    "email":"بريد إلكتروني",
+    "phoneNumber":"رقم التليفون",
+    "password":"كلمة المرور",
+    "change":"يتغير",
+    "addressButton":"أضف عنوان جديد",
+    "editAddress":"تعديل العنوان",
+    "delete":"يمسح",
+    "addressDetails":"تفاصيل العنوان",
+    "deleteAddress":"حذف العنوان",
+    "deletePara":"هل أنت متأكد أنك تريد حذف هذا العنوان؟",
+    "modal":{
+      "changePasswordHeading":"تغيير كلمة المرور",
+      "currentPassword":"كلمة السر الحالية",
+      "newPassword":"كلمة المرور الجديدة",
+      "confirmPassword":"تأكيد كلمة المرور",
+      "passwordLength": "يجب ألا يقل عن 8 أحرف",
+      "passwordSuccessful":"تم تغيير كلمة المرور بنجاح",
+      "changeEmail":"تغيير الايميل",
+      "emailPara":"الرجاء إدخال عنوان البريد الإلكتروني الجديد الذي ترغب في تغييره.",
+      "email":"بريد إلكتروني",
+      "verifyOtp":"التحقق من البريد الإلكتروني",
+      "emailOtpPara":"لقد أرسلنا Otp في بريدك الإلكتروني. الرجاء إدخال Otp للتحقق.",
+      "resendCode":"ألم تحصل على الرمز؟",
+      "resendText":"أعد إرسال الرمز",
+      "emailChanged":"تم تغيير عنوان البريد الإلكتروني بنجاح.",
+      "paraPhoneNumber":"الرجاء إدخال رقم الهاتف الجديد الذي ترغب في تغييره.",
+      "countryCode":"حدد رمز الدولة",
+      "changePhoneNumber":"غير رقم الهاتف",
+      "phoneChanged":"تم تغيير رقم الهاتف بنجاح.",
+      "verifyNumber":"تحقق من رقم الهاتف",
+      "verifyNumberOtpPara":"لقد أرسلنا OTP في بريدك الإلكتروني. الرجاء إدخال OTP للتحقق.",
+      "phoneNumberLengthError":"الرجاء إدخال رقم",
+      "afterPhoneNumberVerifypara":"تم تغيير رقم الهاتف بنجاح."
+    },
+    "logOutModal":{
+      "heading":"تسجيل الخروج من حسابك",
+      "para":"هل أنت متأكد أنك تريد تسجيل الخروج من حسابك الآن؟"
+    },
+    "deleteModal":{
+      "heading":"حذف الحساب",
+      "para":"هل أنت متأكد أنك تريد حذف حسابك الآن؟"
+    },
+    "addressModal":{
+      "label1":"العنوان الأول",
+      "label2":"العنوان الثاني",
+      "country":"دولة",
+      "state":"ولاية",
+      "district":"يصرف",
+      "code":"رمز بريدي",
+      "addressChangeSucccessful":"تمت إضافة عنوان جديد",
+      "saveChanges":"حفظ التغييرات",
+      "cancelEdit":"إلغاء التحرير"
+    },
+    "setting":{
+      "heading":"جلسة",
+      "changeLanguage":"تغيير اللغة",
+      "push":"دفع الإخطار",
+      "emailNotification":"إعلام البريد الإلكتروني",
+      "smsNotification":"إخطار الرسائل القصيرة",
+      "on":"على",
+      "off":"عن"
+    },
+    "error":{
+      "mailError":"البريد الإلكتروني غير صالح.",
+      "passwordMatchError":"كلمة المرور الجديدة وتأكيد كلمة المرور الجديدة غير متطابقين ",
+      "countryError":"الرجاء تحديد الدولة",
+      "stateError":"الرجاء تحديد ولاية",
+      "districtError":"الرجاء تحديد منطقة",
+      "postalCodeError":"الرجاء إدخال الرمز البريدي",
+      "addressOneError":"الرجاء إدخال الرمز البريدي",
+      "addressTwoError":"الرجاء إدخال العنوان الثاني",
+      "errorMessageForOTP":"الرجاء إدخال OTP",
+      "invalidOtp":"لرجاء إدخال الرمز Otp",
+      "error": " إدخال الرمز"
+    }
+  },
+  "myCart":{
+    "heading":"سلة التسوق الخاصة بي",
+    "pebeaSneakers":"أحذية بيبيا الرياضية"  
+  },
+  "checkOutNow":{
+    "backButtonText":"الدفع",
+    "addresstext":"عنوان التسليم",
+    "totalPrice":"السعر الكلي:",
+    "addressModal":{
+      "name":"اسم المستلم",
+      "phoneNumber":"رقم هاتف المستلم",
+      "addressName":"اسم عنوان",
+      "province":"مقاطعة",
+      "district":"يصرف",
+      "code":"رمز بريدي",
+      "select":"يختار"
+    }
+  },
+  "signUpForm": {
+    "login": "تسجيل الدخول",
+    "forgetPassword": "هل نسيت كلمة السر؟",
+    "newUser": "ليس لديك حساب",
+    "signUp": "اشتراك",
+    "loginButtonText": "تسجيل الدخول",
+    "subText": "سنقوم بإرسال بريد إلكتروني لإعادة تعيين كلمة المرور الخاصة بك",
+    "backToLogin": "العودة إلى تسجيل الدخول",
+    "continue": "يكمل",
+    "passwordLength": "يجب ألا يقل عن 8 أحرف",
+    "errorMessage": "لا يمكن العثور على هذا البريد الإلكتروني ، تأكد من أن البريد الإلكتروني غير صحيح ",
+    "unexpectedError":"يمكن العثور على هذا البريد الإلكتروني ، تأكد م"
+  },
+  "authentication": {
+    "invalidEmail": "بريد إلكتروني خاطئ",
+    "invalidPassword": "رمز مرور خاطئ",
+    "passwordNotMatch":"كلمة السر غير متطابقة",
+    "invalidNumber": "أحرف على الأقل",
+    "enterMobileNumber": "تأكد من أن البريد الإلكتروني",
+    "required":"مجال مطلوب",
+    "strings": {
+      "incChar": "يتألف من 6 أحرف على الأقل",
+      "incNum": "يشمل الرقم",
+      "incLower": "يتضمن حرفًا صغيرًا",
+      "incUpper": "يتضمن حرف كبير",
+      "incSym": "يتضمن رمزًا خاصًا"
+    },
+    "formText": {
+      "signUp": "اشتراك",
+      "writeEmail": "اكتب بريدك الإلكتروني",
+      "writePassword": "اكتب كلمة المرور الخاصة بك",
+      "name": "اسم",
+      "email": "بريد إلكتروني",
+      "phone number": "رقم التليفون",
+      "continue": "يكمل",
+      "forgetPassword": "هل نسيت كلمة السر",
+      "newUser": "ليس لديك حساب؟",
+      "login": "تسجيل الدخول",
+      "agreeText": "أنا أوافق على",
+      "termsAndConditions": "الأحكام والشروط",
+      "invalidNumber": "رقم غير صالح",
+      "namePlaceholder": "اكتب الرقم",
+      "emailPlaceholder": "اكتب بريدا الكترونيا",
+      "errorMessage":"لا يمكن العثور على هذا البريد الإلكتروني ، تأكد من أن البريد الإلكتروني غير صحيح ",
+      "oldUser":"يدا الكترونيا",
+      "successfully":"الإلكتروني ، تأكد من أن",
+      "forgotPasswordText":"لا يمكن العثور على هذا البريد الإلكتروني ، تأكد من أن البريد الإلكتروني غير ص",
+      "forgotPasswordLink":"يرجى التحقق من بريدك الإلكتروني المسجل أو رقم هاتفك"
+    }
+  },
+  "footerPages": {
+    "privacyPolicy": "سياسة الخصوصية",
+    "cookiesPolicy": "سياسة ملفات الارتباط",
+    "ourStory": "قصتنا",
+    "faqQuestion": "أسئلة مكررة"
+  },
+  "paymentModal": {
+    "buttonText": "منتهي",
+    "paymentStatus": "دفعتك ناجحة",
+    "item": "أغراض:",
+    "totalItem": "المجموع:"
+  },
+  "cartPage": {
+    "heading": "عربتك",
+    "placeholder": "أضف رمز القسيمة",
+    "itemPrice": "سعر العناصر",
+    "totalAmount": "السعر الكلي",
+    "buttonText": "الشروع في دفع"
+  },
+  "userProfile": {
+    "accountDetails": {
+      "name": "اسم",
+      "placeholder": "اسم المستخدم",
+      "email": "بريد إلكتروني",
+      "emailPlaceholder": "John.doe@gmail.com",
+      "phoneNumber": "رقم التليفون",
+      "saveChanges": "احفظ التغييرات",
+      "changeAvatar": "تغيير الصورة الرمزية"
+    },
+    "changePassword":{
+      "currentPassword":"كلمة السر الحالية",
+      "newPassword":"كلمة المرور الجديدة",
+      "confirmNewPassword":"تأكيد كلمة المرور الجديدة",
+      "passwordSame":"كلمة المرور ليست هي نفسها",
+      "placeholder":"اكتب كلمة المرور",
+      "saveCanges":"احفظ التغييرات"
+    }
+  },
+  "contactUs": {
+    "imageHeading": "ابقى على تواصل",
+    "imageParagraph": "يسعدنا أن نسمع منك",
+    "contactTitle": "بيانات المتصل",
+    "contactDetails": "لوريم إيبسوم هو ببساطة نص شكلي يستخدم في صناعة الطباعة والتنضيد. كان Lorem Ipsum هو النص الوهمي القياسي في الصناعة منذ القرن الخامس عشر الميلادي ، عندما أخذت طابعة غير معروفة لوحًا من النوع وتدافعت عليه لعمل كتاب عينة. لقد نجت ليس فقط خمسة قرون ، ولكن أيضًا القفزة في التنضيد الإلكتروني.",
+    "location": "خريطة الموقع",
+    "buttonAboveHeadingOne": "تصفح الأسئلة الشائعة",
+    "buttonAboveHeadingTwo": "ابق على تواصل معنا",
+    "buttonText1": "تصفح الأسئلة الشائعة",
+    "buttonText2": "ارسل رأيك"
+  },
+  "termsAndConditions": {
+    "condition": "أحكام وشروط"
+  },
+  "userStatus": {
+    "InvoicesTitle": "الفواتير",
+    "userId": "هوية صوتية",
+    "userDecription": "حجز تذكره",
+    "planDate": "تاريخ",
+    "amount": "كمية",
+    "booking": "الحجوزات",
+    "promos": "الملل"
+  },
+  "becomeMember": {
+    "playWheelMember": "كن عضوًا في Playwheel",
+    "memberParagraph": "لوريم إيبسوم هو ببساطة نص شكلي يستخدم في صناعة الطباعة والتنضيد. كان Lorem Ipsum هو النص الوهمي القياسي في الصناعة منذ أن تم تعميمه في الستينيات مع إصدار أوراق Letraset التي تحتوي على."
+  },
+  "bookingForEvent": {
+    "aboutMultipurposeText": "حول القاعة متعددة الأغراض والخدمات",
+    "galleryText": "صالة عرض",
+    "bookingForEventText": "الحجز للأحداث",
+    "packagePriceText": "سعر الطرد",
+    "addToCartText": "أضف إلى السلة",
+    "checkOutNowText": "الخروج الآن",
+    "totalPriceText": "السعر الكلي",
+    "addOnPriceText": "سعر الإضافات",
+    "addOnsText": "الإضافات",
+    "addOnNameText": "اسم الوظيفة الإضافية",
+    "chooseDateText": "اختر التاريخ والوقت",
+    "checkoutText": "الدفع",
+    "addCouponText": "أضف رمز القسيمة",
+    "paymentProceedButtonText": "الشروع في دفع",
+    "bookingForEventHeading": "كتاب للأحداث"
+  },
+  "kidZone": {
+    "heading": "اللعب المفتوح",
+    "availableAndTiming": "التوفر والتوقيت",
+    "timing": "المواعيد:",
+    "availableSlots": "فتحات متاحة",
+    "services": "خدمات",
+    "selectDate":"حدد تاريخ"
+  },
+  "addKidDetails": {
+    "kidName": "اسم الطفل",
+    "kidNamePlaceholder": "اكتب الاسم",
+    "kidDateOfBirthText": "تاريخ ميلاد الطفل",
+    "kidFavouriteColor": "اللون المفضل",
+    "kidFavouriteColorPlaceholder": "اكتب اللون",
+    "previousButtonText": "سابق",
+    "saveButtonText": "يحفظ",
+    "nextButton": "التالي",
+    "editKidDetails": "تحرير تفاصيل الطفل"
+  },
+  "workshop": {
+    "workshopHeadingOne": "ورشة عمل مستمرة",
+    "workshopHeadingTwo": "ورش العمل القادمة",
+    "aboutWorkShop": "حول ورشة العمل",
+    "aboutOrganizer": "حول المنظم",
+    "workshopCardHeading": "اسم الورشة",
+    "buttonText": "اشتري الآن",
+    "progressbarText": "المقعد متاح",
+    "bookingWorkshop": "الحجز لورشة العمل",
+    "choosekidDetails": "اختر تفاصيل الأطفال",
+    "addKidDetails": "أضف تفاصيل طفل جديد",
+    "workshopName": "اسم الورشة هنا",
+    "buttonTextOne": "أضف إلى السلة",
+    "buttonTextTwo": "الخروج الآن",
+    "workshopImageHeading": "ورش عمل",
+    "calenderButtonText": "اختر من التقويم",
+    "workshopParagraphFirst": "لوريم إيبسوم هو ببساطة نص شكلي يستخدم في صناعة الطباعة والتنضيد. كان Lorem Ipsum هو النص الوهمي القياسي في الصناعة منذ القرن الخامس عشر الميلادي ، عندما أخذت طابعة غير معروفة لوحًا من النوع وتدافعت عليه لعمل كتاب عينة. لقد نجت ليس فقط خمسة قرون ، ولكن أيضًا القفزة في التنضيد الإلكتروني",
+    "workshopParagraphSecond": "لوريم إيبسوم هو ببساطة نص شكلي يستخدم في صناعة الطباعة والتنضيد. كان Lorem Ipsum هو النص الوهمي القياسي في الصناعة منذ القرن الخامس عشر الميلادي ، عندما أخذت طابعة غير معروفة لوحًا من النوع وتدافعت عليه لعمل كتاب عينة. لقد نجت ليس فقط خمسة قرون ، ولكن أيضًا القفزة في التنضيد الإلكتروني.",
+    "workshopParagraphThird": "لوريم إيبسوم هو ببساطة نص شكلي يستخدم في صناعة الطباعة والتنضيد. كان Lorem Ipsum هو النص الوهمي القياسي في الصناعة منذ القرن الخامس عشر الميلادي ، عندما أخذت طابعة غير معروفة لوحًا من النوع وتدافعت عليه لعمل كتاب عينة. لقد نجت ليس فقط خمسة قرون ، ولكن أيضًا القفزة في التنضيد الإلكتروني.",
+    "selectDate":"اختر من التقويم"
+  },
+  "productPage":{
+    "visitStore":"قم بزيارة المتجر",
+    "totalProduct": "إجمالي المنتج",
+     "productSold": "بيع المنتج",
+     "responseRate":"معدل الاستجابة",
+     "joinedSince" :"انضم منذ ذلك الحين",
+     "aboutProduct": "حول المنتج",
+     "customerRating":"تقييم العملاء",
+     "customerQuestions":"أسئلة العملاء",
+     "addToCart":"أضف إلى السلة",
+     "buyNow":"اشتري الآن",
+     "size": "مقاس",
+     "colors": "الألوان",
+     "question":"سؤال",
+     "condition":"حالة",
+     "currentQuantity": "الكمية الحالية",
+     "material":"مادة",
+     "delivery":"توصيل"
+  },
+  "header": {
+    "signUp": "إنشاء حساب",
+    "login": "تسجيل الدخول إلى حسابك",
+    "allCategories":"جميع الفئات",
+    "yourAccount":"الحساب الخاص بك",
+    "name":"أندرو وايت"
+  },
+  "homePage":{
+    "seeMore":"شاهد المزيد",
+    "seeLess":"انظر أقل",
+    "ProductSectionsName":"اسم أقسام المنتج",
+    "popularProduct":"منتج شعبي",
+    "categoryName":"اسم التصنيف",
+    "carousel":{
+      "heading":"لوريم إيبسوم دولور الجلوس أميت adipiscing إليت سيد تفعل",
+      "subHeading":"باستثناء أن هناك رغبة غير متوقعة.",
+      "buttonText":"يتعلم أكثر"
+    }
+ },
+ "footer":{
+  "copyrightName":"© حقوق الطبع والنشر لاسم الشركة، 2021",
+  "wishlists":"قوائم الامنيات",
+  "chats":"الدردشات",
+  "myOrders":"طلباتي",
+  "myProfile":"ملفي",
+  "aboutUs":"معلومات عنا",
+  "termsConditions":"البنود و الظروف",
+  "privacyPolicy":"سياسة الخصوصية",
+  "helpCenter":"مركز المساعدة"
+ },
+ "Categories":{
+  "apparels":"ملابس",
+  "tops":"قمم",
+  "bottoms":"قيعان",
+  "tSTanks":"تي شيرت والدبابات",
+  "shirts":"قمصان وقمصان",
+  "hoodies":"هوديس وبلوزات",
+  "cardigans":"بالأزرار والسترات الصوفية",
+  "jacket":"سترة وسترات",
+  "jogger":"عداء ببطء وبنطلون رياضي",
+  "shorts":"السراويل القصيرة",
+  "tights":"الجوارب",
+  "chinos":"تشينو",
+  "jeans":"جينز",
+  "trackpants":"بنطال رياضي",
+  "sneakers":"أحذية رياضية"
+ },
+ "apparelCategories":{
+  "heading":"فئات الملابس",
+  "noData":"لاتوجد بيانات",
+  "SearchNofound":"لا يمكن العثور على البحث",
+  "tryAnother":"لا يمكن العثور على كلمتك الرئيسية، يرجى تجربة كلمة رئيسية أخرى"
+  },
+  "favoriteItems":{
+    "heading": "العناصر المفضلة",
+    "searchFavoriteItems": "البحث عن العناصر المفضلة...",
+    "RemoveModal":{
+      "heading": "إزالة العنصر المفضل",
+      "subHeading": "هل أنت متأكد أنك تريد إزالة هذه العناصر المفضلة من قائمتك؟",
+      "yes": "نعم",
+      "no": "لا"
+    }
+  },
+  "searchPage":{
+    "yourSearched":"بحثت عنه",
+    "mostRecent":"الأحدث"
+  }
+}
