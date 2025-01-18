@@ -1,14 +1,5 @@
 /* eslint-disable import/extensions */
-import {
-
-  Flex,
-  Container,
-  Box,
-  SimpleGrid,
-  Card,
-  useMantineTheme,
-  Center,
-} from '@mantine/core';
+import { Flex, Container, Box, SimpleGrid, Card, useMantineTheme, Center } from '@mantine/core';
 import { useMediaQuery } from '@mantine/hooks';
 import { BaseText } from '@/components/elements/BaseText/BaseText';
 import { typography } from '@/themes/Mantine/typography';
@@ -100,7 +91,7 @@ export default function Home() {
           {item.id}
         </BaseText>
       </Flex>
-      <Image height={60} width={60} src="/icons/know_more_icon.png" alt="know-more"/>
+      <Image height={60} width={60} src="/icons/know_more_icon.png" alt="know-more" />
     </Card>
   );
   // const howItWorkCards =React.FC<howItWorksData>(({howItWorksData}))=>({
@@ -147,15 +138,17 @@ export default function Home() {
               <Box className={classes.responsiveSubMainText}>
                 <Flex direction="column" justify="center" align="center" gap="17px">
                   <BaseText fontWeight_variant={700} size={25}>
-                    Lorem ipsum dolor sit amet consect.
+                    {/* Online  */}
+                    Medical Consulting Platform
                   </BaseText>
 
                   <Box className={classes.responsiveSecondSubMainText}>
                     {' '}
                     <BaseText>
-                      Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-                      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                      commodo consequat.
+                      An online medical consulting platform enables patients to connect with
+                      licensed doctors for consultations from the comfort of their homes. This
+                      reduces the need for physical visits, saves time, and provides access to
+                      healthcare for those in remote areas.
                     </BaseText>
                   </Box>
                 </Flex>
@@ -167,13 +160,15 @@ export default function Home() {
               <Box className={classes.subMainText}>
                 <Flex direction="column" justify="flex-start" align="center" gap="17px">
                   <BaseText size={60} fontWeight_variant={700}>
-                    Lorem ipsum dolor sit amet consect.
+                    {/* Online  */}
+                    Medical Consulting Platform
                   </BaseText>
 
                   <BaseText style={{ opacity: 0.7 }} fontWeight_variant={400} size={16}>
-                    Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-                    minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                    commodo consequat.
+                    An online medical consulting platform enables patients to connect with licensed
+                    doctors for consultations from the comfort of their homes. This reduces the need
+                    for physical visits, saves time, and provides access to healthcare for those in
+                    remote areas.
                   </BaseText>
                 </Flex>
               </Box>
@@ -183,7 +178,7 @@ export default function Home() {
                 src={Images.public_health}
                 height={440}
                 width={440}
-                alt={"public-health"}
+                alt={'public-health'}
               />
             </Flex>
           )}
@@ -258,7 +253,6 @@ export default function Home() {
           </Container>
         )}
       </Box>
-   
     </>
   );
 }

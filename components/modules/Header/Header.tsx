@@ -36,7 +36,8 @@ function Header() {
   const showProfile = userStore.is_logged_in;
 
   return (
-    <Container maw={1250}>
+    <Container style={{background:"red"}} maw={"100%"}>
+    {/* maw={1250}> */}
       <Box className={classes.containerBox}>
         {/**Header mainHeading */}
         <Flex justify="space-between" align="center" mt="10px">
